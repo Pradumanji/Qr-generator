@@ -1,0 +1,30 @@
+body{
+    background-color: #c5cfd4;
+    text-align:center;
+    
+}
+.outer{
+    height:440px;
+    width:290px;
+    background-color:hsl(0, 0%, 100%);
+    margin: 150px auto;
+    border-radius:15px;
+    
+}
+.image{
+    border-radius:15px;
+    margin-top:20px;
+}
+.para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    padding: 0 20px;
+    color:rgb(176, 167, 169);
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+   
+    font-size: 18px;
+    padding:0 10% 5px ;
+  
+}
